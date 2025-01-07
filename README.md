@@ -1,6 +1,6 @@
 # Damn Vulnerable DeFi
 
-# DONE [6/18]
+# DONE [8/18]
 
 Damn Vulnerable DeFi is _the_ smart contract security playground for developers, security researchers and educators.
 
